@@ -35,7 +35,13 @@ public class CustomTraderOrderPatch : ModulePatch
         { "EpaKim1", "67b67103b32c5563e508998a" },
         { "Vafelz", "637ace38260ffaa1bd63047f" },
         { "Harry", "67419e9d0d4541ce671543bb" },
-        { "Hephaestus", "6746722bcce65386cfcc7209" }
+        { "Hephaestus", "6746722bcce65386cfcc7209" },
+        { "Cat Burglar", "67635a00fec1f22d67d76870" },
+        { "Painter", "668aaff35fd574b6dcc4a686" },
+        { "Badger", "bd3a8b28356d9c6509966546" },
+        { "Artem", "66bf757f27d0b097db0acea5" },
+        { "Armor", "6748adca5c70634464b214a7" },
+        { "Requisitions", "66f0eaa93f6cc015bc1f3acb" }
     };
 
     [PatchPrefix]
